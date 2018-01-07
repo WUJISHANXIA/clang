@@ -1,0 +1,9 @@
+#c
+*.o
+*.out
+#mac
+.DS_Store
+#tmp file
+output
+#vscode
+.vscode
